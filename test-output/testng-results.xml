@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-26T23:52:15 IST" name="Default suite" finished-at="2024-02-26T23:52:24 IST" duration-ms="9250">
+    <groups>
+    </groups>
+    <test started-at="2024-02-26T23:52:15 IST" name="Default test" finished-at="2024-02-26T23:52:24 IST" duration-ms="9250">
+      <class name="api.test.UserTests2">
+        <test-method is-config="true" signature="setupdata()[pri:0, instance:api.test.UserTests2@54a7079e]" started-at="2024-02-26T23:52:15 IST" name="setupdata" finished-at="2024-02-26T23:52:15 IST" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupdata -->
+        <test-method signature="testpostuser()[pri:1, instance:api.test.UserTests2@54a7079e]" started-at="2024-02-26T23:52:15 IST" name="testpostuser" finished-at="2024-02-26T23:52:19 IST" duration-ms="3400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostuser -->
+        <test-method signature="getuserbyname()[pri:2, instance:api.test.UserTests2@54a7079e]" started-at="2024-02-26T23:52:19 IST" name="getuserbyname" finished-at="2024-02-26T23:52:21 IST" duration-ms="2029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getuserbyname -->
+        <test-method signature="updateusername()[pri:3, instance:api.test.UserTests2@54a7079e]" started-at="2024-02-26T23:52:21 IST" name="updateusername" finished-at="2024-02-26T23:52:22 IST" duration-ms="1151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateusername -->
+        <test-method signature="deleteusername()[pri:4, instance:api.test.UserTests2@54a7079e]" started-at="2024-02-26T23:52:22 IST" name="deleteusername" finished-at="2024-02-26T23:52:24 IST" duration-ms="1824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteusername -->
+      </class> <!-- api.test.UserTests2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

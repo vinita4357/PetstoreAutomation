@@ -1,0 +1,8 @@
+[INFO ] 2024-02-27 00:12:33.024 [main] UserTests - -------------creating user-----------
+[INFO ] 2024-02-27 00:12:36.538 [main] UserTests - ------------- user created-----------
+[INFO ] 2024-02-27 00:12:37.731 [main] UserTests - -------------updating user-----------
+[INFO ] 2024-02-27 00:12:39.151 [main] UserTests - -------------deleting  user-----------
+[INFO ] 2024-02-27 00:20:47.470 [main] UserTests - -------------creating user-----------
+[INFO ] 2024-02-27 00:20:53.065 [main] UserTests - ------------- user created-----------
+[INFO ] 2024-02-27 00:20:54.822 [main] UserTests - -------------updating user-----------
+[INFO ] 2024-02-27 00:20:56.546 [main] UserTests - -------------deleting  user-----------
